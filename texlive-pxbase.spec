@@ -6,7 +6,7 @@
 # catalog-version 0.5
 Name:		texlive-pxbase
 Version:	0.5
-Release:	8
+Release:	9
 Summary:	Tools for use with (u)pLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/japanese/pxbase
