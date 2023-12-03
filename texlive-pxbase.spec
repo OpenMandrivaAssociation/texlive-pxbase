@@ -1,6 +1,6 @@
 Name:		texlive-pxbase
-Version:	64072
-Release:	2
+Version:	66187
+Release:	1
 Summary:	Tools for use with (u)pLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/japanese/pxbase
