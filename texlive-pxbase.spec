@@ -3,7 +3,7 @@ Version:	66187
 Release:	1
 Summary:	Tools for use with (u)pLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/language/japanese/pxbase
+URL:		https://www.ctan.org/tex-archive/language/japanese/pxbase
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pxbase.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pxbase.doc.r%{version}.tar.xz
